@@ -1,0 +1,16 @@
+# Project exclude paths
+/microservice-api/target/
+/microservice-consumer/target/
+/microservice-consumer-feign/target/
+/microservice-eureka1/target/
+/microservice-eureka2/target/
+/microservice-eureka3/target/
+/microservice-hystrix-dashboard/target/
+/microservice-interface/target/
+/microservice-provider/target/
+/microservice-provider2/target/
+/microservice-provider3/target/
+/microservice-provider-hystrix/target/
+/microservice-provider-user-hystrix/target/
+/microservice-security/target/
+/microservice-turbine/target/
